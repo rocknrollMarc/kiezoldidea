@@ -8,10 +8,11 @@ module.exports.homelist = function(req, res){
     },
     sidebar: "Looking for RocknRoll and a seat? iKiez helps you find places to work when out and about. Perhaps with coffee, cake or a pint? Let iKiez help you find the place you're looking for.",
     locations: [{
-      name: 'Starcups',
-      address: '125 High Street, Reading, RG6 1PS',
+      name: 'Mandaley',
+      address: 'Schulterblatt, Hamburg, RG6 1PS',
       rating: 3,
-      facilities: ['Hot drinks', 'Food', 'Premium wifi'],
+      facilities: ['Hot drinks', 'Cocktails', 'Premium wifi'],
+      music: "Electro",
       distance: '100m'
     },{
       name: 'Cafe Hero',
