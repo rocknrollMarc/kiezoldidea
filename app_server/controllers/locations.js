@@ -6,7 +6,7 @@ module.exports.homelist = function(req, res){
       title: 'iKiez',
       strapline: 'find a place near you with your taste of Music'
     },
-    sidebar: "Looking for RocknRoll and a seat? iKiez helps you find places to work when out and about. Perhaps with coffee, cake or a pint? Let Loc8r help you find the place you're looking for.",
+    sidebar: "Looking for RocknRoll and a seat? iKiez helps you find places to work when out and about. Perhaps with coffee, cake or a pint? Let iKiez help you find the place you're looking for.",
     locations: [{
       name: 'Starcups',
       address: '125 High Street, Reading, RG6 1PS',
