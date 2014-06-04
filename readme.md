@@ -1,18 +1,7 @@
-Getting MEAN application code
-=============================
+My first MEAN stack project. Mongodb, Express, Angularjs, nodejs
 
-This is the code for the sample 'Loc8r' application that is built through the course of my book [Getting MEAN](http://www.manning.com/sholmes/).
+Its called iKiez and is supposed to help you find a venue in real time using your taste of music
 
-This branch holds the code as it stands at the end of Chapter 4 *Building a static site with Node.js and Express*.
+iKiez because the Kiez is the Market Im testing in Hamburg and kiez can be used in other towns later.
 
-Clone this branch with the following commands (in a fresh folder)
-```sh
-$ git init
-$ git clone -b chapter-04 https://github.com/simonholmes/getting-MEAN.git
-```
-Install the npm module dependencies:
-```sh
-$ cd getting-MEAN
-$ npm install
-```
-Getting MEAN is published by Manning, and is currently available through their early access program: [www.manning.com/sholmes/](http://www.manning.com/sholmes/)
+Rocknroll
